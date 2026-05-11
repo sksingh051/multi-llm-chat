@@ -130,7 +130,7 @@ export default function App() {
                 <img src="https://img.icons8.com/?size=100&id=C3kp9gV6xSQA&format=png&color=000000" />
               </div>
               <span className="text-white font-semibold text-[15px] tracking-tight">
-                Dialogix
+                chit-chat
               </span>
               <span className="text-[11px] font-medium text-orange-400 bg-orange-500/10 border border-orange-500/20 px-2 py-0.5 rounded-full">
                 1.0
